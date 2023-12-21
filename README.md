@@ -35,3 +35,7 @@ Tabii ki bunun yaninda fer2013 icin guzel bir GAN da olusturmus olacagim.
 Okulumun bitirme dersi olan bu dersteki projemde guttugum temel amac,
 beni ise biraz daha tecrube sahibi olarak basvurmami saglamasi.
 
+## V5-FER2013
+bu calismamda cikti olarak verimli sonuc alamadim ama egitimin iki 
+model icinde tek asamada olmasini sagladim.
+sonuclar 'v5_fer2013_OUTPUT' klasorunde bulunmaktadir
