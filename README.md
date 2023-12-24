@@ -48,3 +48,10 @@ ve kernel boyutu seçiminde doğru kararlar almadım. Farklı modeller
 ile devam edeceğim. Minimum parametreler ile başlayıp sonradan verimli
 sonuç aldığım modelin parametrelerini artırıp sonuçları inceleyeceğim.
 
+## V7-FER2013
+Bu çalışmamda model parametlerini oldukça azalttım. Gördüğüm benzer
+ganlardaki parametre seviyeleri ile aynı seviyeye getirdim.
+Ne yazık ki olumlu bir sonuç alamadım.
+Aynı model ve veri setini kaggle üzerinden gördüğüm farklı
+kütüphaneler ile (pytorch) eğitip sonuçların benim model ve 
+parametrelerimden mi olup olmadığını inceleyeceğim.
