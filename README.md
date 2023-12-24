@@ -39,3 +39,12 @@ beni ise biraz daha tecrube sahibi olarak basvurmami saglamasi.
 bu calismamda cikti olarak verimli sonuc alamadim ama egitimin iki 
 model icinde tek asamada olmasini sagladim.
 sonuclar 'v5_fer2013_OUTPUT' klasorunde bulunmaktadir
+
+## V6-FER2013
+Bu calismada modeli 60 milyon parametreli hale getirerek 20 epoch egittim.
+Buna ragmen sonuclar daha kotu hale geldi. Yalnizca ağın kompleksliğini
+artırarak başarılı sonuç alınmadığı kanaatindeyim. Veya stride lar 
+ve kernel boyutu seçiminde doğru kararlar almadım. Farklı modeller
+ile devam edeceğim. Minimum parametreler ile başlayıp sonradan verimli
+sonuç aldığım modelin parametrelerini artırıp sonuçları inceleyeceğim.
+
